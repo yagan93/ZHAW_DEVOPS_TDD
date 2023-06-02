@@ -59,5 +59,3 @@ public class MathUtilitiesTest {
         assertEquals(2178309, MathUtilities.fibonacci(32));
     }
 }
-
-
